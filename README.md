@@ -1,2 +1,2 @@
-# Python-MachineLearningundVisualisierung-240188
-KursRepository zu Kurs Python - Machine Learning und Visualisierung der ppedv AG
+# Python Data Science und Machine Learning
+Kurs Repository zum Kurs Python Data Science der ppedv AG. Trainer: Lukas Kern (LukasK@ppedv.de)
